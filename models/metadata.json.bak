@@ -1,0 +1,230 @@
+{
+  "generated_at": {
+    "active": "dc",
+    "models": {
+      "dc": "2025-08-26T20:18:18.066890+00:00"
+    }
+  },
+  "models": {
+    "active": "dc",
+    "models": {}
+  },
+  "actives": {
+    "active": "dc",
+    "models": {}
+  },
+  "SAMPLE": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\SAMPLE\\dc.json"
+    }
+  },
+  "EPL-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\EPL-ALL\\dc.json"
+    }
+  },
+  "GER-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\GER-ALL\\dc.json"
+    }
+  },
+  "GER2-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\GER2-ALL\\dc.json"
+    }
+  },
+  "ENG2-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\ENG2-ALL\\dc.json"
+    }
+  },
+  "ENG3-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\ENG3-ALL\\dc.json"
+    }
+  },
+  "FRA1-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\FRA1-ALL\\dc.json"
+    }
+  },
+  "FRA2-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\FRA2-ALL\\dc.json"
+    }
+  },
+  "ITA1-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\ITA1-ALL\\dc.json"
+    }
+  },
+  "ITA2-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\ITA2-ALL\\dc.json"
+    }
+  },
+  "NED-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\NED-ALL\\dc.json"
+    }
+  },
+  "POR-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\POR-ALL\\dc.json"
+    }
+  },
+  "BEL-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\BEL-ALL\\dc.json"
+    }
+  },
+  "GRE-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\GRE-ALL\\dc.json"
+    }
+  },
+  "TUR-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\TUR-ALL\\dc.json"
+    }
+  },
+  "SCO-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\SCO-ALL\\dc.json"
+    }
+  },
+  "SCO2-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\SCO2-ALL\\dc.json"
+    }
+  },
+  "ENG4-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\ENG4-ALL\\dc.json"
+    }
+  },
+  "SP1-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\SP1-ALL\\dc.json"
+    }
+  },
+  "SP2-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\SP2-ALL\\dc.json"
+    }
+  },
+  "ARG-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\ARG-ALL\\dc.json"
+    }
+  },
+  "AUT-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\AUT-ALL\\dc.json"
+    }
+  },
+  "BRA-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\BRA-ALL\\dc.json"
+    }
+  },
+  "CHN-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\CHN-ALL\\dc.json"
+    }
+  },
+  "DNK-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\DNK-ALL\\dc.json"
+    }
+  },
+  "JPN-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\JPN-ALL\\dc.json"
+    }
+  },
+  "MEX-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\MEX-ALL\\dc.json"
+    }
+  },
+  "NOR-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\NOR-ALL\\dc.json"
+    }
+  },
+  "POL-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\POL-ALL\\dc.json"
+    }
+  },
+  "ROU-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\ROU-ALL\\dc.json"
+    }
+  },
+  "SWE-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\SWE-ALL\\dc.json"
+    }
+  },
+  "SWZ-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\SWZ-ALL\\dc.json"
+    }
+  },
+  "USA-ALL": {
+    "active": "dc",
+    "models": {
+      "dc": "models\\USA-ALL\\dc.json"
+    }
+  },
+  "39": {
+    "active": "outcome",
+    "models": {
+      "outcome": "models\\39_outcome.joblib",
+      "FTHG": "models/39_goals_home.joblib",
+      "FTAG": "models/39_goals_away.joblib"
+    }
+  },
+  "E0": {
+    "active": "FTHG",
+    "models": {
+      "FTHG": "models/E0_goals_home.joblib",
+      "FTAG": "models/E0_goals_away.joblib",
+      "outcome": "models\\E0_outcome.joblib"
+    }
+  }
+}
